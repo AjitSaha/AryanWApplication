@@ -119,7 +119,7 @@ export default function HomePage() {
             <div className="flex items-center gap-2">
               <GraduationCap className="h-8 w-8 text-blue-600" />
               <span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                EduManage
+                AryanApp
               </span>
             </div>
             <div className="flex items-center gap-4">
@@ -326,7 +326,7 @@ export default function HomePage() {
               <div>
                 <div className="flex items-center gap-2 mb-4">
                   <GraduationCap className="h-8 w-8 text-blue-400" />
-                  <span className="text-xl font-bold">EduManage</span>
+                  <span className="text-xl font-bold">AryanApp</span>
                 </div>
                 <p className="text-gray-400 mb-4">Modern college management system designed for the digital age.</p>
                 <div className="flex items-center gap-4">
@@ -363,7 +363,7 @@ export default function HomePage() {
               </div>
             </div>
             <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-              <p>&copy; 2024 EduManage. All rights reserved.</p>
+              <p>&copy; 2024 AryanApp. All rights reserved.</p>
             </div>
           </div>
         </footer>
